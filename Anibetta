@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Página de Entretenimento</title>
+  <style>
+    /* Adicione estilos CSS aqui */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #000; /* Fundo preto adicionado */
+      color: #fff; /* Texto em branco */
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #f2f2f2;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #333;
+      text-decoration: none;
+      padding: 10px;
+      margin: 5px;
+    }
+    nav a:hover {
+      background-color: #333;
+      color: #fff;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Página de Entretenimento</h1>
+  </header>
+  <nav>
+    <a href="#">Notícias</a>
+    <a href="#">Música</a>
+    <a href="#">Filmes</a>
+    <a href="#">Jogos</a>
+  </nav>
+  <main>
+    <h2>Bem-vindo à nossa Página de Entretenimento!</h2>
+    <p>Aqui você encontrará as últimas notícias, novidades e informações sobre o mundo do entretenimento.</p>
+    
+    <!-- Adicione conteúdo relevante aqui -->
+    
+  </main>
+  <footer>
+    <p>&copy; 2024 Página de Entretenimento. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
